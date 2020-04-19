@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #00f0dc;
+    background-image: url("https://www.transparenttextures.com/patterns/black-thread-light.png");
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+.navbar {
+    background-color: #f5ba13;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    color: #fafafa;
+    border-radius: 0 0 5px 5px;
+}
+
+.nav-link {
+    color: #fafafb;
+}
+
+.navbar-brand {
+    color: #fafafa;
+    font-weight: bold;
+}
+
+.fa-backspace {
+    margin-left: 15px;
+    color: #ff5252;
+}
